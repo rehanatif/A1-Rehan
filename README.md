@@ -1,5 +1,6 @@
 Update read me 
 run again 
+I m trying again
 # Seed package for Lab1
 Npm package to be used for Lab1
 
