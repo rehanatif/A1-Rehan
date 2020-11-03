@@ -1,3 +1,4 @@
+Update read me 
 # Seed package for Lab1
 Npm package to be used for Lab1
 
